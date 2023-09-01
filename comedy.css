@@ -1,0 +1,45 @@
+/* comedy.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #DF5854, #71AC9A, #71AC9A, #A5D2C0, #FCE4D9;
+    color: #DF5854, #71AC9A, #71AC9A, #A5D2C0, #FCE4D9;
+  }
+  
+  .movies {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 20px;
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .movie {
+    background-color: #DF5854, #71AC9A, #71AC9A, #A5D2C0, #FCE4D9;
+    border-radius: 5px;
+    box-shadow: 2px 2px 6px 0px rgba(0,0,0,0.3);
+    text-align: center;
+    padding: 20px;
+  }
+  
+  img {
+    max-width: 100%;
+  }
+  
+  h3 {
+    font-size: 18px;
+    margin-top: 10px;
+  }
+  
+  @media (max-width: 600px) {
+    .movies {
+      grid-template-columns: 1fr;
+    }
+  }
+  h1 {
+    text-align: center;
+    font-size: 36px;
+    margin-top: 20px;
+    color:crimson
+  }
