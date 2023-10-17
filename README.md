@@ -1,6 +1,6 @@
-# ReelTalk!
+# Movie Swiper!
 
-ReelTalk is a movie recommendation web app that allows users to sign up, log in, and get personalized movie suggestions based on their preferences. ReelTalk combines Firebase for user management with a third-party API for movie data to deliver a personalized movie suggestion engine in a web app interface. Users can easily find movies to watch tailored to their tastes.
+Movie Swiper is a movie recommendation web app that allows users to sign up, log in, and get personalized movie suggestions based on their preferences. Movie Swiper combines Firebase for user management with a third-party API for movie data to deliver a personalized movie suggestion engine in a web app interface. Users can easily find movies to watch tailored to their tastes.
 
 Youtube video: https://www.youtube.com/@IhabElrayah/videos
 
